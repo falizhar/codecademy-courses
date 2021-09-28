@@ -16,6 +16,7 @@ The user will be able to input a question, then our program will output a random
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
 
 2. Race Day
+
 Codecademy’s annual race is just around the corner! This year, we have a lot of participants. You have been hired to write a program that will register runners for the race and give them instructions on race day.
 
 As a timeline, registration would look like this:
