@@ -9,7 +9,7 @@
 
 ### **1. Magic 8 Ball**
 
-   You’ve learned a powerful tool in JavaScript: control flow! It’s so powerful, in fact, that it can be used to tell someone’s fortune.
+   I’ve learned a powerful tool in JavaScript: control flow! It’s so powerful, in fact, that it can be used to tell someone’s fortune.
    
    In this project we will build the [Magic 8 Ball](https://en.wikipedia.org/wiki/Magic_8-Ball) using control flow in JavaScript.
    
@@ -17,7 +17,7 @@
    
 ### **2. Race Day**
 
-   Codecademy’s annual race is just around the corner! This year, we have a lot of participants. You have been hired to write a program that will register runners for the race and give them instructions on race day.
+   Codecademy’s annual race is just around the corner! This year, we have a lot of participants. I have been hired to write a program that will register runners for the race and give them instructions on race day.
 
    As a timeline, registration would look like this:
 
@@ -34,5 +34,4 @@
 - Early adults run at 9:30 am.
 - Late adults run at 11:00 am.
 - Youth registrants run at 12:30 pm (regardless of registration).
-
-   **For runners that are exactly 18, should see the registration desk.**
+- For runners that are _exactly 18_, should see the registration desk.
