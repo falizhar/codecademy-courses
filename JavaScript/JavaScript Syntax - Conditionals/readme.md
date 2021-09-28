@@ -7,7 +7,7 @@ In this part, we have two exercise projects:
 
 1. Magic 8 Ball
 
-⋅⋅⋅ You’ve learned a powerful tool in JavaScript: control flow! It’s so powerful, in fact, that it can be used to tell someone’s fortune.
+   You’ve learned a powerful tool in JavaScript: control flow! It’s so powerful, in fact, that it can be used to tell someone’s fortune.
 
 ⋅⋅⋅ In this project we will build the [Magic 8 Ball](https://en.wikipedia.org/wiki/Magic_8-Ball) using control flow in JavaScript.
 
